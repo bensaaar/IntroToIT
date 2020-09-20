@@ -1,0 +1,23 @@
+h1 {font-family: sans-serif, calabri;
+	text-align: center; 
+	font-size: 50px; 
+	color: brown;
+}
+body {background-image: url("images/wallpaper.jpg");
+	background-attachment: fixed;
+}
+nav {text-align: center; 
+	background: white;
+	color: black; 
+	padding: .5em; 
+	word-spacing: 100px;
+}
+h2	{text-align: center;
+	color:white;
+}
+h3 	{color:white;
+}
+p 	{color:white;
+}
+li 	{color:white;
+}
